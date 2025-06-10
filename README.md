@@ -1,5 +1,8 @@
 # 💫 About Me:
-Software Engineer with 6+ years of experience.<br>Front-end oriented but skilled in full-stack development.<br>Currently based in Huckeswagen, Germany.
+Software Engineer with 6+ years of experience.
+<br>Front-end oriented but skilled in full-stack development.
+<br>Currently based in Huckeswagen, Germany.
+<br>Open to new opportunities. Open to relocate.
 
 
 ## 🌐 Socials:
